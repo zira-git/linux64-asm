@@ -3,7 +3,8 @@
 - ### The examples are for learning or re-use
 
 ### Current Examples:
-- ### Hello, World! (hello_world.asm)
+- ### Printing (printing.asm)
+- ### Printing more lines (printing_more.asm)
 
 ### Running ASM
 - ### Compile with NASM: nasm -f elf64 filename.asm -o filename.o
